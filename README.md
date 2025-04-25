@@ -79,15 +79,24 @@ Our goal is to empower CS students with accessible and intelligent support, help
 - **FFmpeg** processes and plays audio directly in the browser for seamless audio feedback.
 ### Speech to text
 - Able to detect the users voice for text to speech features that enable the user to be able to talk to the model and get direct responses
-### Usage 
+### Usage
 
-- cd frontend 
-- npm install to install all the node packages
-- npm run dev to run the development server on your local computer
-- cd backend
-- pip install -r requirements.txt
-- python app.py
+To run the application locally, follow these steps:
+
+**Running the Frontend:**
+```bash
+cd frontend
+npm install
+npm run dev
 ---
+```
+**Running the backend**
+```bash
+cd backend
+pip install -r requirements.txt
+python app.py
+```
+
 
 ##  Final Notes
 

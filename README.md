@@ -60,12 +60,14 @@ Our goal is to empower CS students with accessible and intelligent support, help
   - Upload important documents.
   - View chat history with the assistant.
   - Receive **recommendations** for classes, careers, and resume improvement.
+- Speech to Text that allows the user to use their mic to enter an input.
+- Text-to-speech that allows the chatbot to respond with audio.
 
 ###  User Authentication
-- Secure login system to protect user data and provide personalized access.
+- A secure login system is used to protect user data and provide personalized access.
 
 ### Admin dashboard
-- Implemented an admin page where professors can come in and upload files with updated information about the computer science deparment so that the model can have updated answers.
+- Implemented an admin page where professors can come in and upload files with updated information about the computer science department so that the model can have updated answers.
 
 ### Document Dashboard
 - Users can view all previously uploaded documents in a dedicated **Documents Page**.
